@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1612919547 source:c:\users\pc\desktop\projet_jeu_de_mémoire\main.c
+	<windows.h>
+	<stdio.h>
+	"main.h"
+	"player.h"
+
+1612919414 c:\users\pc\desktop\projet_jeu_de_mémoire\main.h
+	<stdio.h>
+
+1612919414 c:\users\pc\desktop\projet_jeu_de_mémoire\player.h
+	<stdio.h>
+
+1612919414 source:c:\users\pc\desktop\projet_jeu_de_mémoire\player.c
+	"player.h"
+	<stdlib.h>
+	<string.h>
+
